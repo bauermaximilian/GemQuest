@@ -10,7 +10,7 @@ _But at least it's pretty._
 
 ## How to run
 
-Download and extract the current release and run the contained executable - if the program doesn't start, make sure you have the recent Visual C++ redistributable installed.
+Download and extract ![the current release](../../releases/download/0.1/GemQuest_Release_0.1.zip) and run the contained executable - if the program doesn't start, make sure you have the recent Visual C++ redistributable installed.
 
 ## How to build
 
