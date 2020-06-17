@@ -1,5 +1,7 @@
 # GemQuest
 
+A small OpenGL maze game in C. 
+
 ## Description
 
 This project was my submission to an university assignment with rather specific limitations: program a simple maze game in C/C++, but with no libraries besides freeglut/glew, and everything needs to be inside one file. The task was tailored to be programmed using immediate mode OpenGL (as learned in the lecture) and was allowed to be "ugly" - but as this was not stringent, I used modern OpenGL, the power of shaders, embedded the meshes into the source code (using an attached Python exporter script for Blender) and came up with probably the most boring game you'd ever play.
